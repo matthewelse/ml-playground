@@ -1,19 +1,17 @@
 # Machine Learning Algorithms in Python
 
-Implementation of Machine Learning algorithms in Python, based on the algorithms taught in Andrew Ng's course.
+Implementation of various Machine Learning algorithms in Python.
 
 ## Supervised
 
 - [x] Linear Regression
-- [ ] Multi-variable Linear Regression
+- [x] Multi-variable Linear Regression
 - [ ] Logistic Regression
 - [ ] (Regularization)
 - [ ] SVM
 
-## Unsupervised
+## Unsupervised
 
 - [ ] Dimensionality Reduction
 - [ ] k-Means
 - [ ] Recommender Systems
-
-
