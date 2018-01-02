@@ -12,5 +12,5 @@ Implementation of various Machine Learning algorithms in Python.
 ## Unsupervised
 
 - [ ] Dimensionality Reduction
-- [ ] k-Means
+- [x] k-Means
 - [ ] Recommender Systems
