@@ -6,8 +6,7 @@ Implementation of various Machine Learning algorithms in Python.
 
 - [x] Linear Regression
 - [x] Multi-variable Linear Regression
-- [ ] Logistic Regression
-- [ ] (Regularization)
+- [x] Logistic Regression
 - [ ] SVM
 
 ## Unsupervised
