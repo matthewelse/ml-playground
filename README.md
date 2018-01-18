@@ -1,15 +1,17 @@
-# Machine Learning Algorithms in Python
+# Random Jupyter Notebooks
+
+## Machine Learning
 
 Implementation of various Machine Learning algorithms in Python.
 
-## Supervised
+### Supervised
 
 - [x] Linear Regression
 - [x] Multi-variable Linear Regression
 - [x] Logistic Regression
 - [ ] SVM
 
-## Unsupervised
+### Unsupervised
 
 - [ ] Dimensionality Reduction
 - [x] k-Means
